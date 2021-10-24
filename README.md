@@ -23,7 +23,8 @@ Projeto desenvolvido pela trilha Impulse da RocketSeat, que consiste em, um proj
 
 <br />
 
-[![Letmeask_video](.github/assets/dowhile-capa.jpg)](https://app.rocketseat.com.br/dashboard)
+[![Letmeask_video](.github/assets/capa.jpg)](https://app.rocketseat.com.br/dashboard)
+[![Letmeask_video](.github/assets/capa2.jpg)](https://app.rocketseat.com.br/dashboard)
 
 <br />
 
