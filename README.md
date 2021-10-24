@@ -4,7 +4,7 @@
   <img alt="DoWhile" src=".github/assets/logo.svg" width="420px" /> 
   <br />
   <br />
-  React | Reac Native | Typescript | Elixir | Node.js  
+  React | React Native | Typescript | Elixir | Node.js  
 </h1>
 
 <p align="center">
@@ -42,7 +42,7 @@ Projeto desenvolvido pela trilha Impulse da RocketSeat, que consiste em, um proj
 - Expo cli
 - Elixir
 - Phoenix
-- Postgres
+- PostgreSQL
 - Vite 
 - Gihub Oauth
 - Web Sockets
