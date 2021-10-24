@@ -18,13 +18,16 @@
 ## :bookmark: Resumo
 <br />
 
- 
+![capa](https://user-images.githubusercontent.com/66697772/138598266-02cbed22-5517-486b-955e-67ffd4532137.png) 
+![capa2](https://user-images.githubusercontent.com/66697772/138598285-ef6719d0-a0fb-4ffe-8d07-cbf1dc69da92.png)
+
+
 Projeto desenvolvido pela trilha Impulse da RocketSeat, que consiste em, um projeto para expressar suas expectativas para o DoWhile 2021.
 
 <br />
 
-[![Letmeask_video](.github/assets/capa.jpg)](https://app.rocketseat.com.br/dashboard)
-[![Letmeask_video](.github/assets/capa2.jpg)](https://app.rocketseat.com.br/dashboard)
+
+
 
 <br />
 
